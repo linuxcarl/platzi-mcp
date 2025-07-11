@@ -1,0 +1,12 @@
+[project]
+name = "clase7"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "azure-ai-inference>=1.0.0b9",
+    "dotenv>=0.9.9",
+    "mcp[cli]>=1.11.0",
+    "starlette>=0.47.1",
+]
